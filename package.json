@@ -36,5 +36,8 @@
     "postcss": "^6.0.14",
     "postcss-cli": "^4.1.1",
     "uglifyjs": "^2.4.11"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
   }
 }
